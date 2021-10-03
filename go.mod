@@ -1,3 +1,3 @@
-module github.com/niteshagrawalgmail/mymod/v1
+module github.com/niteshagrawalgmail/mymod
 
 go 1.17
