@@ -6,5 +6,5 @@ import "fmt"
 
 func Print() {
 
-	fmt.Println("Hello, World!")
+	fmt.Println("Nameshte Duniya!")
 }
